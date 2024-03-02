@@ -1,0 +1,4 @@
+export const API_KEY = '0dcb234fd8e808b26c651715f937b217';
+export const TOKEN_KEY =
+  'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwZGNiMjM0ZmQ4ZTgwOGIyNmM2NTE3MTVmOTM3YjIxNyIsInN1YiI6IjY1ZGRkZmU0OWFlNjEzMDE4Njc1NmQxMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.n-_bQwkK_NDEzBTsUydX25xzjNKUpXobhWw98wo5CCk';
+export const PER_PAGE = 12;

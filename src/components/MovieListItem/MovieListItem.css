@@ -1,0 +1,26 @@
+.movie-list-item {
+  border: 1px solid black;
+  border-radius: 16px;
+  box-sizing: border-box;
+  width: calc((100% - 6 * 16px) / 7);
+  overflow: hidden;
+  box-shadow: 0px 0px 4px #f1f1f1;
+}
+
+.movie-list-item a {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #f1f1f1;
+}
+
+.movie-list-item .movie-title {
+  font-weight: 600;
+  text-align: center;
+  font-size: 18px;
+}
+
+.movie-list-item .release-date {
+  font-size: 12px;
+  text-align: center;
+}
